@@ -1,0 +1,40 @@
+[
+  "whole wheat",
+  [
+    "whole wheat flour",
+    "whole wheat pastry flour",
+    "whole wheat bread",
+    "whole wheat pasta",
+    "whole wheat panko breadcrumbs",
+    "whole wheat orzo pasta",
+    "whole wheat pancake mix",
+    "whole wheat tortillas",
+    "whole wheat breadcrumbs",
+    "whole wheat bread flour"
+  ],
+  [
+    {
+      "nodes": [
+        {
+          "name": "Grocery & Gourmet Food",
+          "alias": "grocery"
+        },
+        {
+          "name": "Prime Pantry",
+          "alias": "pantry"
+        }
+      ]
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  [],
+  "20ESEV1HU3D88"
+]

@@ -1,0 +1,36 @@
+[
+  "not a match",
+  [
+    "iphone 6s case",
+    "iphone 6s screen protector",
+    "iphone 6s plus case",
+    "iphone 6s plus screen protector",
+    "iphone 6s",
+    "iphone 6s plus",
+    "iphone 6s screen replacement",
+    "iphone 6s plus screen replacement",
+    "iphone 6s charger",
+    "iphone 6s battery"
+  ],
+  [
+    {
+      "nodes": [
+        {
+          "name": "Cell Phones & Accessories",
+          "alias": "mobile"
+        }
+      ]
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  [],
+  "3M03AI765A89G"
+]
