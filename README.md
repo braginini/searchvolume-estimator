@@ -109,8 +109,10 @@ Next steps are grouped by topic tasks that can be addressed to finish up the ser
 * make Amazon Suggestions API calls asynchronous
 * review code for //todo improvements
  
-**Bottom line**
-To sum up the work, I see that solution should focus on probalistic estimation. Collecting a full tree/graph of the suggested keywords making up as much as possible connections to build a neural network.   
+Bottom line
+-----------
+
+I see that focus should be on probalistic estimation. Collecting a full tree/graph of the suggested keywords making up as much as possible connections to build a neural network.   
 
 
 
