@@ -85,7 +85,7 @@ Three possible solutions for that (definitely out the scope and won't fit into 1
 Next steps
 ----------
 
-Next steps are grouped by topic tasks that can be addressed to finish up the service.
+Next steps are tasks grouped by topic that can be addressed to finish up the service.
 
 **Algorithm:**
 * approach short-tail keywords
