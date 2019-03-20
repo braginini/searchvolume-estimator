@@ -94,6 +94,8 @@ Next steps are tasks grouped by topic that can be addressed to finish up the ser
 * research if `nodes` field in Amazon Suggestions API can be used;
 * review and fix score > 1 issue, make mathematical normalization of scoring factors;
 * approach mistyped keywords (typos) in scoring factors.
+* consider using `search-alias` (category), `client` (desktop?, mobile?) and `mkt` (market?) Amazon Suggestions API request parameters in algorithm.
+* how popularity is different in other countries and how to use the API for Germany, for example?
 
 **CI/CD and monitoring**
 * enable travis
